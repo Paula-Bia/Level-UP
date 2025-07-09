@@ -81,6 +81,7 @@ Submeter o código-fonte da aplicação neste repositório com documentação ad
 Desenvolvedora de Software | Rethink  
 
 - GitHub: [@Paula-Bia](https://github.com/Paula-Bia)
+- Apresentação: [clique aqui](https://docs.google.com/presentation/d/1XUaJWC17D8NqW6YsyhYO11TpZtpv8dyz/edit?usp=sharing&ouid=116306092474448728779&rtpof=true&sd=true)
 
 ---
 
