@@ -84,10 +84,5 @@ Desenvolvedora de Software | Rethink
 
 ---
 
-## 📄 Licença
-
-Este projeto está sob a licença [MIT](LICENSE).
-
----
 
 > ✨ Obrigada por visitar este repositório! Sinta-se à vontade para acompanhar a evolução, abrir issues ou contribuir com sugestões.
